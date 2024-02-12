@@ -1,0 +1,33 @@
+.customer-card {
+  background-color: #fff;
+  box-shadow: var(--box-shadow);
+  border-radius: 15px;
+}
+
+th {
+  color: #afafaf;
+  font-size: 13px;
+}
+
+label.v-label.v-field-label {
+  font-size: small;
+}
+
+li.v-pagination__prev li.v-pagination__next {
+  background-color: #f5f5f5;
+  border-radius: 3px;
+  color: rgb(27, 27, 27);
+}
+button.v-btn.v-btn--icon.v-theme--light.v-btn--density-compact.v-btn--variant-text {
+  background-color: #f5f5f5;
+}
+.table-pagination {
+  color: #afafaf;
+  font-size: 12px;
+}
+
+.dialog-head {
+  color: #000000;
+  font-weight: 600;
+  font-size: 26px;
+}

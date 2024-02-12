@@ -1,0 +1,37 @@
+@font-face {
+    font-family: "CircularStd-Bold";
+    src:  url("fonts/CircularStd-Bold.ttf") format("truetype"),
+  }
+  @font-face {
+    font-family: "CircularStd-Book";
+    src:  url("fonts/CircularStd-Book.ttf") format("truetype"),
+  }
+  @font-face {
+    font-family: "CircularStd-Black";
+    src:  url("fonts/CircularStd-Black.ttf") format("truetype"),
+  }
+  @font-face {
+    font-family: "CircularStd-Medium";
+    src:  url("fonts/CircularStd-Medium.ttf") format("truetype"),
+  }
+  
+  .label.v-label.theme--light.error--text .v-input input {
+    font-family: "CircularStd-Book" !important;
+  }
+  .tbold {
+    font-family: "CircularStd-Bold";
+  }
+  .tbook {
+    font-family: "CircularStd-Book";
+  }
+  .tblack {
+    font-family: "CircularStd-Black";
+  }
+  .tmedium {
+    font-family: "CircularStd-Medium";
+  }
+
+  .tbooksubtitle {
+    font-family: "CircularStd-Book";
+    font-size: 10px;
+  }
